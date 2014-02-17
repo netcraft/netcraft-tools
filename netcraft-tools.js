@@ -2,7 +2,6 @@
 	
 	var ncTools = window.ncTools || {};
 	
-	
 	/**
 		Execute a function immediately or after a delay
 	*/
