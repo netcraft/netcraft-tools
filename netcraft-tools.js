@@ -1,6 +1,6 @@
 (function (window) {
 	
-	var ncTools = window.ncToosl || {};
+	var ncTools = window.ncTools || {};
 	
 	
 	/**
