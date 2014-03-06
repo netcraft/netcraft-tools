@@ -71,6 +71,6 @@
 	};
 	
 	
-	window.ncTools = ncTools;
+	global.ncTools = ncTools;
 	
 }(window));
